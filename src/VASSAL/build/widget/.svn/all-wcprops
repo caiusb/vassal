@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget
+END
+MapWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/MapWidget.java
+END
+BoxWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/BoxWidget.java
+END
+Chart.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/Chart.java
+END
+CardSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/CardSlot.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/package.html
+END
+PieceSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/PieceSlot.java
+END
+TabWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/TabWidget.java
+END
+WidgetMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/WidgetMap.java
+END
+PanelWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/PanelWidget.java
+END
+HtmlChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/HtmlChart.java
+END
+ListWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/widget/ListWidget.java
+END

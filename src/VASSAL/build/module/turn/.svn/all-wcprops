@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn
+END
+TurnComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/TurnComponent.java
+END
+CounterTurnLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/CounterTurnLevel.java
+END
+TurnTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/TurnTracker.java
+END
+ListTurnLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/ListTurnLevel.java
+END
+TurnLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/TurnLevel.java
+END
+TurnGlobalHotkey.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/turn/TurnGlobalHotkey.java
+END

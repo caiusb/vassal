@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer
+END
+EchoClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/EchoClient.java
+END
+P2PPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/P2PPlayer.java
+END
+PeerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/PeerPool.java
+END
+RoomTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/RoomTracker.java
+END
+ClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/ClientTest.java
+END
+PeerPoolInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/PeerPoolInfo.java
+END
+P2PClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/P2PClient.java
+END
+IpWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/IpWatch.java
+END
+TextClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/TextClient.java
+END
+DirectPeerPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/DirectPeerPool.java
+END
+UnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/UnitTest.java
+END
+AcceptPeerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/AcceptPeerThread.java
+END
+RoomManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/RoomManager.java
+END
+P2PClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/peer2peer/P2PClientFactory.java
+END

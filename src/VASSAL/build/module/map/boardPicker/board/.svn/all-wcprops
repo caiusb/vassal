@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board
+END
+ZonedGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/ZonedGrid.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/package.html
+END
+RegionGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/RegionGrid.java
+END
+GeometricGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/GeometricGrid.java
+END
+Region.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/Region.java
+END
+SquareGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/SquareGrid.java
+END
+GridEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/GridEditor.java
+END
+MapGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/MapGrid.java
+END
+HexGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/boardPicker/board/HexGrid.java
+END

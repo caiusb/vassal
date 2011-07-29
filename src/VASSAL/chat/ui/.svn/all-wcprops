@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui
+END
+MessageBoardControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/MessageBoardControlsInitializer.java
+END
+ServerWindowActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ServerWindowActions.java
+END
+CurrentRoomActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/CurrentRoomActions.java
+END
+ShowServerStatusAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ShowServerStatusAction.java
+END
+SimpleStatusControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/SimpleStatusControlsInitializer.java
+END
+BasicChatControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/BasicChatControlsInitializer.java
+END
+SynchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/SynchAction.java
+END
+ShowProfileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ShowProfileAction.java
+END
+LockableRoomTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/LockableRoomTreeRenderer.java
+END
+InviteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/InviteAction.java
+END
+SendSoundAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/SendSoundAction.java
+END
+KickAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/KickAction.java
+END
+RoomTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/RoomTreeRenderer.java
+END
+JoinRoomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/JoinRoomAction.java
+END
+ServerStatusView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ServerStatusView.java
+END
+PrivateMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/PrivateMessageAction.java
+END
+RoomActionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/RoomActionFactory.java
+END
+RoomTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/RoomTree.java
+END
+ServerStatusControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ServerStatusControlsInitializer.java
+END
+LockableRoomControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/LockableRoomControls.java
+END
+RoomInteractionControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/RoomInteractionControlsInitializer.java
+END
+ChatControlsInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ChatControlsInitializer.java
+END
+PlayerActionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/PlayerActionFactory.java
+END
+ChatServerControls.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ui/ChatServerControls.java
+END

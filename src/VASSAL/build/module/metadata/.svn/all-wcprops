@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata
+END
+ExtensionMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/ExtensionMetaData.java
+END
+SaveMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/SaveMetaData.java
+END
+ModuleMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/ModuleMetaData.java
+END
+MetaDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/MetaDataFactory.java
+END
+ImportMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/ImportMetaData.java
+END
+AbstractMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/metadata/AbstractMetaData.java
+END

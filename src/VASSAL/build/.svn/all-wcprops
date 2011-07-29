@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build
+END
+GameModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/GameModule.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/package.html
+END
+GpIdSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/GpIdSupport.java
+END
+AbstractConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/AbstractConfigurable.java
+END
+Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/Builder.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/Configurable.java
+END
+Buildable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/Buildable.java
+END
+AutoConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/AutoConfigurable.java
+END
+IllegalBuildException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/IllegalBuildException.java
+END
+PropertyProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/PropertyProducer.java
+END
+AbstractBuildable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/AbstractBuildable.java
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/Widget.java
+END
+BadDataReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/BadDataReport.java
+END

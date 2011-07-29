@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser
+END
+ModuleFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/ModuleFileFilter.java
+END
+FileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/FileChooser.java
+END
+ImageFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/ImageFileFilter.java
+END
+AudioFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/AudioFileFilter.java
+END
+BMPFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/BMPFileFilter.java
+END
+LogFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/LogFileFilter.java
+END
+ModuleExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/ModuleExtensionFileFilter.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/FileFilter.java
+END
+LogAndSaveFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/LogAndSaveFileFilter.java
+END
+ExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/ExtensionFileFilter.java
+END
+DirectoryFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/filechooser/DirectoryFileFilter.java
+END

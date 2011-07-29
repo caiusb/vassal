@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version
+END
+VersionFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/VersionFormatException.java
+END
+VersionTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/VersionTokenizer.java
+END
+VersionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/VersionUtils.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/Version.java
+END
+VassalVersionTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/VassalVersionTokenizer.java
+END
+UpdateCheckAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/UpdateCheckAction.java
+END
+VassalVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/VassalVersion.java
+END
+AbstractUpdateCheckRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/AbstractUpdateCheckRequest.java
+END
+SimpleVersionTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/version/SimpleVersionTokenizer.java
+END

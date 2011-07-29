@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat
+END
+ChatServerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ChatServerFactory.java
+END
+SoundEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SoundEncoder.java
+END
+HttpRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/HttpRequestWrapper.java
+END
+DynamicClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/DynamicClient.java
+END
+MessageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/MessageServer.java
+END
+WelcomeMessageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/WelcomeMessageServer.java
+END
+Compressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/Compressor.java
+END
+PlayerInfoWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PlayerInfoWindow.java
+END
+SynchCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SynchCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/package.html
+END
+PlayerEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PlayerEncoder.java
+END
+ChatServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ChatServerConnection.java
+END
+CommandDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/CommandDecoder.java
+END
+PlayerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PlayerStatus.java
+END
+SimplePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SimplePlayer.java
+END
+SynchEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SynchEncoder.java
+END
+ServerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ServerConfigurer.java
+END
+SimpleRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SimpleRoom.java
+END
+MainRoomFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/MainRoomFilter.java
+END
+HybridClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/HybridClient.java
+END
+PrivateChatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PrivateChatter.java
+END
+SimpleStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/SimpleStatus.java
+END
+HttpMessageServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/HttpMessageServer.java
+END
+InviteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/InviteCommand.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/Player.java
+END
+MainRoomChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/MainRoomChecker.java
+END
+PrivateChatEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PrivateChatEncoder.java
+END
+DynamicClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/DynamicClientFactory.java
+END
+LockableRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/LockableRoom.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/Room.java
+END
+CgiServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/CgiServerStatus.java
+END
+PrivMsgCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PrivMsgCommand.java
+END
+ServerStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/ServerStatus.java
+END
+DummyClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/DummyClient.java
+END
+InviteEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/InviteEncoder.java
+END
+PrivateChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/PrivateChatManager.java
+END

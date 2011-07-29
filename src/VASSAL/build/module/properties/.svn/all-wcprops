@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties
+END
+PropertySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/PropertySource.java
+END
+PropertyChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/PropertyChanger.java
+END
+GlobalPropertiesContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/GlobalPropertiesContainer.java
+END
+MutablePropertiesContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/MutablePropertiesContainer.java
+END
+NumericPropertyPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/NumericPropertyPrompt.java
+END
+ChangePropertyCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/ChangePropertyCommand.java
+END
+IncrementProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/IncrementProperty.java
+END
+ZoneProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/ZoneProperty.java
+END
+SumProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/SumProperties.java
+END
+MutableProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/MutableProperty.java
+END
+EnumeratedPropertyPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/EnumeratedPropertyPrompt.java
+END
+PropertyChangerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/PropertyChangerConfigurer.java
+END
+PropertyPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/PropertyPrompt.java
+END
+GlobalProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/GlobalProperty.java
+END
+ChangePropertyButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/ChangePropertyButton.java
+END
+GlobalProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/GlobalProperties.java
+END
+ChangePropertyCommandEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/ChangePropertyCommandEncoder.java
+END
+PropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/properties/PropertySetter.java
+END

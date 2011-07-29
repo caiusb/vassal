@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node
+END
+NodeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodeClient.java
+END
+AsynchronousServerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/AsynchronousServerNode.java
+END
+ConnectionLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/ConnectionLimiter.java
+END
+SocketWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/SocketWatcher.java
+END
+NodeHybridClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodeHybridClient.java
+END
+ServerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/ServerNode.java
+END
+NodePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodePlayer.java
+END
+PlayerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/PlayerNode.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/Server.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/Node.java
+END
+SocketNodeClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/SocketNodeClient.java
+END
+NodeClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodeClientFactory.java
+END
+NodeRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodeRoom.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/Protocol.java
+END
+BufferedSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/BufferedSocketHandler.java
+END
+SocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/SocketHandler.java
+END
+MsgSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/MsgSender.java
+END
+StatusReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/StatusReporter.java
+END
+NodeServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/NodeServerInfo.java
+END
+LockWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/node/LockWatcher.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber
+END
+JabberRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/JabberRoom.java
+END
+JabberClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/JabberClient.java
+END
+ModuleAccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/ModuleAccountInfo.java
+END
+AccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/AccountInfo.java
+END
+JabberClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/JabberClientFactory.java
+END
+PacketProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/PacketProcessor.java
+END
+JabberStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/JabberStatus.java
+END
+JabberPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/JabberPlayer.java
+END
+Interceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/chat/jabber/Interceptor.java
+END

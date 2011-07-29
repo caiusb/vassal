@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2
+END
+ADC2Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/ADC2Utils.java
+END
+ADC2Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/ADC2Module.java
+END
+SymbolSetFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/SymbolSetFileFilter.java
+END
+MapBoardFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/MapBoardFileFilter.java
+END
+SymbolSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/SymbolSet.java
+END
+MapBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/MapBoard.java
+END
+ADC2ModuleFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/imports/adc2/ADC2ModuleFileFilter.java
+END

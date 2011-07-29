@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/windows/nsis
+END
+GetJavaVersion.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/windows/nsis/GetJavaVersion.nsh
+END
+installer.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/windows/nsis/installer.nsi
+END

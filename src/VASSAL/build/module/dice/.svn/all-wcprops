@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/dice
+END
+ShadowDiceDieServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/dice/ShadowDiceDieServer.java
+END
+BonesDiceServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/dice/BonesDiceServer.java
+END
+RollSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/dice/RollSet.java
+END
+DieServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/dice/DieServer.java
+END

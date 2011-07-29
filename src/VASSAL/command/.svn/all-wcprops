@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/Logger.java
+END
+AlertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/AlertCommand.java
+END
+AddPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/AddPiece.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/Command.java
+END
+RemovePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/RemovePiece.java
+END
+ChangeTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/ChangeTracker.java
+END
+MoveTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/MoveTracker.java
+END
+ConditionalCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/ConditionalCommand.java
+END
+NullCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/NullCommand.java
+END
+TrackPiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/TrackPiece.java
+END
+CommandFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/CommandFilter.java
+END
+ChangePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/ChangePiece.java
+END
+MovePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/MovePiece.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/package.html
+END
+PlayAudioClipCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/PlayAudioClipCommand.java
+END
+CommandEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/command/CommandEncoder.java
+END

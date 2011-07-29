@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map
+END
+MovementReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MovementReporter.java
+END
+KeyBufferer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/KeyBufferer.java
+END
+PieceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/PieceCollection.java
+END
+SetupStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/SetupStack.java
+END
+ForwardToChatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/ForwardToChatter.java
+END
+TextSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/TextSaver.java
+END
+SmallList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/SmallList.java
+END
+PieceRecenterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/PieceRecenterer.java
+END
+CompoundPieceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/CompoundPieceCollection.java
+END
+ForwardToKeyBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/ForwardToKeyBuffer.java
+END
+Drawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/Drawable.java
+END
+SelectionHighlighters.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/SelectionHighlighters.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/package.html
+END
+LayeredPieceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/LayeredPieceCollection.java
+END
+SimplePieceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/SimplePieceCollection.java
+END
+LOS_Thread.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/LOS_Thread.java
+END
+HidePiecesButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/HidePiecesButton.java
+END
+GlobalMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/GlobalMap.java
+END
+DrawPile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/DrawPile.java
+END
+SelectionHighlighter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/SelectionHighlighter.java
+END
+HandMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/HandMetrics.java
+END
+BoardPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/BoardPicker.java
+END
+PieceMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/PieceMover.java
+END
+MenuDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MenuDisplayer.java
+END
+MapProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MapProperties.java
+END
+StackExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/StackExpander.java
+END
+LayerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/LayerControl.java
+END
+DefaultPieceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/DefaultPieceCollection.java
+END
+HighlightLastMoved.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/HighlightLastMoved.java
+END
+MapShader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MapShader.java
+END
+MassKeyCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MassKeyCommand.java
+END
+Zoomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/Zoomer.java
+END
+CounterDetailViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/CounterDetailViewer.java
+END
+MapCenterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/MapCenterer.java
+END
+StackMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/StackMetrics.java
+END
+ImageSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/ImageSaver.java
+END
+Scroller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/Scroller.java
+END
+DeckGlobalKeyCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/map/DeckGlobalKeyCommand.java
+END

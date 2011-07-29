@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ErrorDialog.java
+END
+ImageFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ImageFileFilter.java
+END
+FutureUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/FutureUtils.java
+END
+HotkeySpecifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/HotkeySpecifier.java
+END
+IconButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/IconButton.java
+END
+KeyStrokeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/KeyStrokeListener.java
+END
+Deobfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Deobfuscator.java
+END
+BrowserSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/BrowserSupport.java
+END
+ProblemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ProblemDialog.java
+END
+RecursionLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/RecursionLimiter.java
+END
+LaunchButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/LaunchButton.java
+END
+ComponentSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ComponentSplitter.java
+END
+ThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ThreadManager.java
+END
+ToolBarComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ToolBarComponent.java
+END
+CRCUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/CRCUtils.java
+END
+BugDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/BugDialog.java
+END
+HeapFinderDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/HeapFinderDummy.java
+END
+ColorButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ColorButton.java
+END
+IterableEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/IterableEnumeration.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/FileFilter.java
+END
+WrapLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/WrapLayout.java
+END
+ExtensionFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ExtensionFileFilter.java
+END
+PlayerIdFormattedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/PlayerIdFormattedString.java
+END
+FormattedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/FormattedString.java
+END
+TemporaryToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/TemporaryToolBar.java
+END
+AudioFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/AudioFileFilter.java
+END
+PropertiesEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/PropertiesEncoder.java
+END
+Obfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Obfuscator.java
+END
+UsernameAndPasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/UsernameAndPasswordDialog.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Decoder.java
+END
+ResourceErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ResourceErrorDialog.java
+END
+DirectoryFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/DirectoryFileFilter.java
+END
+Prioritizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Prioritizable.java
+END
+IterableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/IterableIterator.java
+END
+FileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/FileChooser.java
+END
+BugUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/BugUtils.java
+END
+SequenceEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/SequenceEncoder.java
+END
+ReadErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ReadErrorDialog.java
+END
+DataArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/DataArchive.java
+END
+ActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ActionManager.java
+END
+ArchiveWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ArchiveWriter.java
+END
+ImprovedAveragingScaleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ImprovedAveragingScaleFilter.java
+END
+BackgroundTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/BackgroundTask.java
+END
+KeyStrokeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/KeyStrokeSource.java
+END
+WriteErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/WriteErrorDialog.java
+END
+SavedGameUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/SavedGameUpdater.java
+END
+MemoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/MemoryUtils.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Base64.java
+END
+MTRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/MTRandom.java
+END
+ApplicationIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ApplicationIcons.java
+END
+TransparentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/TransparentFilter.java
+END
+DialogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/DialogUtils.java
+END
+ZipUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ZipUpdater.java
+END
+UniqueIdManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/UniqueIdManager.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/StringUtils.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/Sort.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/package.html
+END
+ArgsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ArgsParser.java
+END
+ComponentPathBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ComponentPathBuilder.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ArrayUtils.java
+END
+RecursionLimitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/RecursionLimitException.java
+END
+ImageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ImageSource.java
+END
+RotateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/RotateFilter.java
+END
+SplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/SplashScreen.java
+END
+EnumeratedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/EnumeratedIterator.java
+END
+ConcurrentSoftHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ConcurrentSoftHashMap.java
+END
+JarArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/JarArchive.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ReflectionUtils.java
+END
+WarningDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/WarningDialog.java
+END
+URLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/URLUtils.java
+END
+HashCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/HashCode.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ProgressDialog.java
+END
+ScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ScrollPane.java
+END
+AdjustableSpeedScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/AdjustableSpeedScrollPane.java
+END
+HTTPPostBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/HTTPPostBuilder.java
+END
+ThrowableUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/ThrowableUtils.java
+END

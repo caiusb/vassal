@@ -1,0 +1,41 @@
+K 10
+svn:ignore
+V 60
+.settings
+
+.classpath
+
+.project
+
+.externalToolBuilders
+
+tmp
+
+K 13
+svn:mergeinfo
+V 1403
+/VASSAL-src/branches/3.1:5509,6019
+/VASSAL-src/branches/bsmith:4567-4756
+/VASSAL-src/branches/bsmith/3.2-working:5236
+/VASSAL-src/branches/bsmith/merge-3:5153
+/VASSAL-src/branches/george973:7259-7447
+/VASSAL-src/branches/jimcot-3-1:6390
+/VASSAL-src/branches/mkiefte:4821-4822
+/VASSAL-src/branches/mkiefte-3.1:5424,6019,6530,6777
+/VASSAL-src/branches/rk-jabber:5293
+/VASSAL-src/branches/swampwallaby-3.1:5134,5150-5151,5155,5165,5199,5257,5279,5294-5295,5303,5307-5308,5311,5319-5320,5329,5332,5352,5370,5425,5465,5468,5528,5547,5568,5648-5649,5672,5717,5725,5762-5765,5788,5801-5802,5807-5810,5822,5825,5847,5851-5852,5857,5876-5877,5890,5903,5907,5922,5935-5938,5947,5958-5959,5983-5984,5986-5988,6038,6062,6085,6243,6258-6260,6276,6285,6353
+/VASSAL-src/branches/swampwallaby-work:4776,4806-4807,4819,4823-4825,5067,5093
+/VASSAL-src/branches/swampwallaby-work2:4840
+/VASSAL-src/branches/swampwallaby-work3:5086
+/VASSAL-src/branches/swampwallaby-work5:4713
+/VASSAL-src/branches/swampwallaby-work6:4727,4729-4730,4737,4742-4743,4747,4752,4776
+/VASSAL-src/branches/uckelman-3.1:5389,5391,5400-5401,5403-5406,5411-5412,5415,5484-5487,5492-5493,5500-5501,5504,5509,5516,5518,5539,5872-5915,6012,6020
+/VASSAL-src/branches/uckelman-work:4657-4708,4769-4775,4779,4790,4799,4933,5326
+/VASSAL-src/branches/wlk0-3.1:6464
+/VASSAL-src/trunk:4885,4887,4929-4930,4934,4936,4949,4954-4955,4966,5033,5048-5049,5117,5144
+K 13
+svn:externals
+V 1
+
+
+END

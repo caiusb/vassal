@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap
+END
+MappedWritableRaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedWritableRaster.java
+END
+MappedImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedImageLoader.java
+END
+MappedImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedImageUtils.java
+END
+MappedBufferedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedBufferedImage.java
+END
+MappedDataBufferByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedDataBufferByte.java
+END
+MappedDataBufferUShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedDataBufferUShort.java
+END
+MappedDataBufferInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/tools/image/memmap/MappedDataBufferInt.java
+END

@@ -1,0 +1,61 @@
+/*
+ * $Id: PropertySetter.java 4372 2008-10-31 22:47:59Z uckelman $
+ *
+ * Copyright (c) 2006 by Rodney Kinney
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Library General Public
+ * License (LGPL) as published by the Free Software Foundation.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Library General Public License for more details.
+ *
+ * You should have received a copy of the GNU Library General Public
+ * License along with this library; if not, copies are available
+ * at http://www.opensource.org.
+ */
+package VASSAL.build.module.properties;
+
+import VASSAL.tools.FormattedString;
+
+/**
+ * Provides a fixed value
+ * The value can be specified as a FormattedString property and evaluated at runtime
+ * 
+ * @author rkinney
+ *
+ */
+public class PropertySetter implements PropertyChanger {
+  private String newValue;
+  private PropertySource propSource;
+  private FormattedString format;
+
+  public PropertySetter(String newValue, PropertySource propSource) {
+    this.newValue = newValue;
+    this.propSource = propSource;
+    if (propSource != null) {
+      format = new FormattedString();
+    }
+  }
+
+  public String getRawValue() {
+    return newValue; 
+  }
+  
+  public String getNewValue(String oldValue) {
+    String s = newValue;
+    if (format != null) {
+      format.setFormat(s);
+      s = format.getText(propSource);
+    }
+    return s;
+  }
+
+  public void setNewValue(String newValue) {
+    this.newValue = newValue;
+  }
+
+
+}

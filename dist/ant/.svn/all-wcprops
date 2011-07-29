@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/ant
+END
+WriteZipContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/ant/WriteZipContents.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/ant/build.xml
+END
+WriteProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/dist/ant/WriteProperties.java
+END

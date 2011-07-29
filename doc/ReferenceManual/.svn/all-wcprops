@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual
+END
+GlobalKeyCommand.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GlobalKeyCommand.htm
+END
+PropertyMarker.htm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PropertyMarker.htm
+END
+SavedGameUpdater.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SavedGameUpdater.htm
+END
+PlayerHand.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PlayerHand.htm
+END
+NonRectangular.htm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/NonRectangular.htm
+END
+DynamicProperty.htm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/DynamicProperty.htm
+END
+Replace.htm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Replace.htm
+END
+AreaOfEffect.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/AreaOfEffect.htm
+END
+SendToLocation.htm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SendToLocation.htm
+END
+IrregularGrid.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/IrregularGrid.htm
+END
+PlaySound.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PlaySound.htm
+END
+ModuleUpdater.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ModuleUpdater.htm
+END
+GameModule.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GameModule.htm
+END
+SubMenu.htm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SubMenu.htm
+END
+Extension.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Extension.htm
+END
+Pivot.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Pivot.htm
+END
+NonStacking.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/NonStacking.htm
+END
+ActionButton.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ActionButton.htm
+END
+SetupStack.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SetupStack.htm
+END
+Spreadsheet.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Spreadsheet.htm
+END
+Translate.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Translate.htm
+END
+Prototypes.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Prototypes.htm
+END
+Layer.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Layer.htm
+END
+SpecialDiceButton.htm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SpecialDiceButton.htm
+END
+GridNumbering.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GridNumbering.htm
+END
+PrivateWindow.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PrivateWindow.htm
+END
+ReturnToDeck.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ReturnToDeck.htm
+END
+Map.htm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Map.htm
+END
+Inventory.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Inventory.htm
+END
+Hideable.htm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Hideable.htm
+END
+MessageFormat.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/MessageFormat.htm
+END
+RestrictedAccess.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/RestrictedAccess.htm
+END
+GamePieceImage.htm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GamePieceImage.htm
+END
+GamePieceImageDefinitions.htm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GamePieceImageDefinitions.htm
+END
+MultiActionButton.htm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/MultiActionButton.htm
+END
+RectangularGrid.htm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/RectangularGrid.htm
+END
+MarkMoved.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/MarkMoved.htm
+END
+Board.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Board.htm
+END
+Deck.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Deck.htm
+END
+ChartWindow.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ChartWindow.htm
+END
+ReportChanges.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ReportChanges.htm
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/index.htm
+END
+Properties.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Properties.htm
+END
+DoActionButton.htm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/DoActionButton.htm
+END
+Label.htm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Label.htm
+END
+GlobalProperties.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GlobalProperties.htm
+END
+DeckGlobalKeyCommand.htm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/DeckGlobalKeyCommand.htm
+END
+Marker.htm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Marker.htm
+END
+ToolbarMenu.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ToolbarMenu.htm
+END
+GlobalOptions.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GlobalOptions.htm
+END
+TurnTracker.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/TurnTracker.htm
+END
+ModuleInstaller.htm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ModuleInstaller.htm
+END
+PieceWindow.htm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PieceWindow.htm
+END
+GamePieceLayers.htm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GamePieceLayers.htm
+END
+HelpMenu.htm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/HelpMenu.htm
+END
+HexGrid.htm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/HexGrid.htm
+END
+PropertySheet.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/PropertySheet.htm
+END
+GamePieceLayouts.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GamePieceLayouts.htm
+END
+TriggerAction.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/TriggerAction.htm
+END
+GlobalHotKey.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GlobalHotKey.htm
+END
+MovementTrail.htm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/MovementTrail.htm
+END
+SetGlobalProperty.htm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/SetGlobalProperty.htm
+END
+Rotate.htm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Rotate.htm
+END
+UsePrototype.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/UsePrototype.htm
+END
+GamePiece.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/GamePiece.htm
+END
+ZonedGrid.htm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/ZonedGrid.htm
+END
+BasicPiece.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/BasicPiece.htm
+END
+Translations.htm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Translations.htm
+END
+RestrictCommands.htm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/RestrictCommands.htm
+END
+Mask.htm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/doc/ReferenceManual/Mask.htm
+END

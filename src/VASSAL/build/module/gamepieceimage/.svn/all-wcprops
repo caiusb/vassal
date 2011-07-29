@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage
+END
+NewColorConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/NewColorConfigurer.java
+END
+SymbolItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/SymbolItem.java
+END
+Visualizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/Visualizable.java
+END
+ShapeItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ShapeItemInstance.java
+END
+GamePieceLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/GamePieceLayout.java
+END
+ImageItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ImageItemInstance.java
+END
+FontStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/FontStyle.java
+END
+InstanceConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/InstanceConfigurer.java
+END
+TextItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/TextItem.java
+END
+ColorSwatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ColorSwatch.java
+END
+StringEnumConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/StringEnumConfigurer.java
+END
+FontManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/FontManager.java
+END
+Visualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/Visualizer.java
+END
+FontConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/FontConfigurer.java
+END
+SwatchComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/SwatchComboBox.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/Symbol.java
+END
+MedianCut.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/MedianCut.java
+END
+LayoutConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/LayoutConfigurer.java
+END
+ShapeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ShapeItem.java
+END
+OutlineFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/OutlineFont.java
+END
+ImageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ImageItem.java
+END
+FontStyleConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/FontStyleConfigurer.java
+END
+SizeConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/SizeConfigurer.java
+END
+ColorSwatchConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ColorSwatchConfigurer.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ColorManager.java
+END
+ItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/ItemInstance.java
+END
+TextBoxItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/TextBoxItemInstance.java
+END
+SymbolConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/SymbolConfigurer.java
+END
+GamePieceImageDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/GamePieceImageDefinitions.java
+END
+SymbolItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/SymbolItemInstance.java
+END
+GamePieceImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/GamePieceImage.java
+END
+TextItemInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/TextItemInstance.java
+END
+GamePieceLayoutsContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/GamePieceLayoutsContainer.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/Item.java
+END
+TextBoxItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/vassalengine/!svn/ver/7534/VASSAL-src/tags/v3_1_15/src/VASSAL/build/module/gamepieceimage/TextBoxItem.java
+END
